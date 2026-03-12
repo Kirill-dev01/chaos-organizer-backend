@@ -10,9 +10,10 @@
 2. Koa.js (koa-body, @koa/router, koa-static)
 3. WebSockets (библиотека ws)
 4. uuid для генерации уникальных идентификаторов сообщений
-5. Запуск проекта локально
+   
+## Запуск проекта локально
 
-## Клонируйте репозиторий на свой компьютер:
+Клонируйте репозиторий на свой компьютер:
 
 git clone [https://github.com/Kirill-dev01/chaos-organizer-backend.git](https://github.com/Kirill-dev01/chaos-organizer-backend.git)
 
