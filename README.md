@@ -23,4 +23,4 @@ npm install
 
 ## Запустите сервер:
 
-npm start edit hits text for readme format
+npm start 
