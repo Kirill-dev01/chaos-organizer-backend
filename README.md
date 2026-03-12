@@ -13,14 +13,14 @@
    
 ## Запуск проекта локально
 
-Клонируйте репозиторий на свой компьютер:
+1. Клонируйте репозиторий на свой компьютер:
 
 git clone [https://github.com/Kirill-dev01/chaos-organizer-backend.git](https://github.com/Kirill-dev01/chaos-organizer-backend.git)
 
-## Установите зависимости:
+2. Установите зависимости:
 
 npm install
 
-## Запустите сервер:
+3. Запустите сервер:
 
 npm start 
